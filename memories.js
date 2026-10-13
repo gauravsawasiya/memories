@@ -16,7 +16,11 @@ const memories = {
   2018: {
     title: "The Beginning",
     text: "The first chapter. The beginning of something beautiful.",
-    photos: []
+    photos: [{ src: "photos/2018/WhatsApp Image 2026-10-13 at 4.25.15 PM.jpeg" },
+      { src: "photos/2018/WhatsApp Image 2026-10-13 at 4.25.40 PM.jpeg" },
+      { src: "photos/2018/WhatsApp Image 2026-10-13 at 4.25.45 PM.jpeg" },
+      { src: "photos/2018/WhatsApp Image 2026-10-13 at 4.25.46 PM.jpeg" },
+      { src: "photos/2018/WhatsApp Image 2026-10-13 at 4.25.57 PM.jpeg" }]
   },
   2019: {
     title: "A New Chapter",
